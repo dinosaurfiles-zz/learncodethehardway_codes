@@ -2,16 +2,16 @@
 Repository for codes made on learning how to code.
 ###Resources:
 
-Python:   [learnpythonthehardway](learnpythonthehardway.org)
+Python:   [learnpythonthehardway](http://learnpythonthehardway.org)
 
-C:   [C / learncodethehardway](c.learncodethehardway.org)
+C:   [C / learncodethehardway](http://c.learncodethehardway.org)
 
-Ruby: [Ruby / learncodethehardway](learnrubythehardway.org/)
+Ruby: [Ruby / learncodethehardway](http://learnrubythehardway.org/)
 
-Django: [Djangoproject](docs.djangoproject.com/)
+Django: [Djangoproject](http://docs.djangoproject.com/)
 
-Regular Expressions:  [RegEx / learncodethehardway](regex.learncodethehardway.org/)
+Regular Expressions:  [RegEx / learncodethehardway](http://regex.learncodethehardway.org/)
 
 Ruby on Rails: [Ruby on Rails By Michael Hartl](https://www.railstutorial.org/)
 
-Structured Query Language (SQL): [SQL / learncodetheardway](sql.learncodethehardway.org/)
+Structured Query Language (SQL): [SQL / learncodetheardway](http://sql.learncodethehardway.org/)
